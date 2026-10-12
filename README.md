@@ -33,3 +33,5 @@ or
 ---
 一段话总结
 ```
+
+[DeepSeek Web](https://chat.deepseek.com/)
